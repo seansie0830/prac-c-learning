@@ -1,3 +1,10 @@
+// Author:seansie
+// Time :2022 02 07
+// description :
+// 關於結構(struct)的基本操作
+// 宣告 member結構，內有 married,age,height,if
+// 裡面有不同資料型態 ex(bool,char,int,float,string.....)
+///////////////////////////////////////////////////////////
 #include<iostream>
 #include<string>
 #include<cstdlib>
